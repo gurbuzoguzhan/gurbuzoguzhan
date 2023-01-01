@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gurbuzoguzhan
+- 👋 Hi, I’m Oguzhan Gurbuz @gurbuzoguzhan
 - 👀 I’m interested in data analysis, regression models, time series analysis, energy and environmental economics
 - 🌱 I’m currently learning R and Python
 - 💞️ I’m looking to collaborate on time series analysis in R
