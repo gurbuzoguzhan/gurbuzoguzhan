@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Oguzhan Gurbuz @gurbuzoguzhan
-- 👀 I’m interested in data analysis, regression models, time series analysis, energy and environmental economics
+- 👀 I’m interested in data analysis, time series analysis, forecasting and regression analysis in energy and environmental economics.
 - 🌱 I’m currently learning R and Python
 - 💞️ I’m looking to collaborate on time series analysis in R
 
