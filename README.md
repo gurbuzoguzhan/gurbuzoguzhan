@@ -1,4 +1,4 @@
-**Some of my personal projects using R:**
+**Some of my personal projects in R:**
 
 **Clustering Economic and Social Development Levels of Mexican Regions (Principal Component Analysis):**
 
