@@ -4,15 +4,15 @@
 
 https://gurbuzoguzhan.github.io/Clustering-Mexican-Regions-Using-PCA-and-K-Means/
 
-**Climate Change in the UK (Exploratory Data Analysis):
+**Climate Change in the UK (Exploratory Data Analysis):**
 
 https://gurbuzoguzhan.github.io/Climate-Change-Data-Analysis-EDA/
 
-**The Relationship Between Energy and GDP in the World (Regression Analysis):
+**The Relationship Between Energy and GDP in the World (Regression Analysis):**
 
 https://gurbuzoguzhan.github.io/Real-World-Data-Regression-Analysis/
 
-**Chile's Labour Force Participation Rate Time Series Analysis and Forecasting: 
+**Chile's Labour Force Participation Rate Time Series Analysis and Forecasting:** 
 
 https://gurbuzoguzhan.github.io/Real-World-Time-Series-Analysis/
 
