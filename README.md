@@ -1,6 +1,6 @@
 **Some of my personal projects using R:**
 
-**Clustering Economic and Social Development Levels of Mexican Regions (Principal Component Analysis):
+**Clustering Economic and Social Development Levels of Mexican Regions (Principal Component Analysis):**
 
 https://gurbuzoguzhan.github.io/Clustering-Mexican-Regions-Using-PCA-and-K-Means/
 
