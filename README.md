@@ -12,7 +12,7 @@ https://gurbuzoguzhan.github.io/Climate-Change-Data-Analysis-EDA/
 
 https://gurbuzoguzhan.github.io/Real-World-Data-Regression-Analysis/
 
-**Chile's Labour Force Participation Rate Time Series Analysis and Forecasting:** 
+**Chile's Labour Force Participation Rate (Time Series Analysis and Forecasting):** 
 
 https://gurbuzoguzhan.github.io/Real-World-Time-Series-Analysis/
 
