@@ -3,7 +3,7 @@ Some of my personal projects using R:
 *Clustering Economic and Social Development Levels of Mexican Regions (Principal Component Analysis):	
 https://gurbuzoguzhan.github.io/Clustering-Mexican-Regions-Using-PCA-and-K-Means/
 
-*Climate Change in the UK (Exploratory Data Analysis):
+*Climate Change in the UK (Exploratory Data Analysis):  
 https://gurbuzoguzhan.github.io/Climate-Change-Data-Analysis-EDA/
 
 *The Relationship Between Energy and GDP in the World (Regression Analysis):
