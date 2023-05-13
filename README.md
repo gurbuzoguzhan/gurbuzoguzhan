@@ -8,6 +8,10 @@ https://gurbuzoguzhan.github.io/Clustering-Mexican-Regions-Using-PCA-and-K-Means
 
 https://gurbuzoguzhan.github.io/Climate-Change-Data-Analysis-EDA/
 
+**ESG Data Analysis:**
+
+Coming Soon :)
+
 **The Relationship Between Energy Demand and GDP per Capita & Population in the World (Multivariate Regression Analysis):**
 
 https://gurbuzoguzhan.github.io/Real-World-Data-Regression-Analysis/
