@@ -10,7 +10,7 @@ https://gurbuzoguzhan.github.io/Climate-Change-Data-Analysis-EDA/
 
 **ESG Data Analysis:**
 
-Coming Soon :)
+https://gurbuzoguzhan.github.io/ESG-Data-Analysis/
 
 **The Relationship Between Energy Demand and GDP per Capita & Population in the World (Multivariate Regression Analysis):**
 
