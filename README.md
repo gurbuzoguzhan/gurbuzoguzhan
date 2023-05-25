@@ -1,7 +1,8 @@
 **Some of my personal projects in R:**
 
 **Visualizing Carbon Emissions in the World with ShinyApps:**
-**Coming Soon...**
+
+https://gurbuz.shinyapps.io/co2_em/
 
 **Clustering Mexican Regions Based on Economic and Social Development Levels (Principal Component Analysis):**
 
