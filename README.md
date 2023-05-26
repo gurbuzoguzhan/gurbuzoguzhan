@@ -2,7 +2,7 @@
 
 **Visualizing Carbon Emissions in the World with ShinyApps:**
 
-https://gurbuz.shinyapps.io/co2_em/
+https://oguzhan-gurbuz.shinyapps.io/carbon-em-data/
 
 **Clustering Mexican Regions Based on Economic and Social Development Levels (Principal Component Analysis):**
 
