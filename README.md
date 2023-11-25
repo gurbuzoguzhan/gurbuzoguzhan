@@ -1,6 +1,6 @@
 **Some of my personal projects in R:**
 
-**Impact Eavaluation of the Public Employment Programme in Ghana with Randomized Control Trial(RCT)
+**Impact Evaluation of the Public Employment Programme in Ghana (Randomized Control Trial(RCT))
 
 https://github.com/gurbuzoguzhan/impact-evaluation-employment-programme
 
